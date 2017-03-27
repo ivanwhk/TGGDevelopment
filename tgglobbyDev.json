@@ -1,0 +1,29 @@
+{
+  "games": [
+    {
+    "name": "Robyn",
+    "developer": "TGG Interactive",
+    "link": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/game.html?game=TGG_ROBYN",
+    "description": "All 243 ways pay in ROBYN. Robyn may win you a prize shooting TARGETs. Get Scatters to trigger 12 free spins with Wild Arrows feature!",
+    "img": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/images/robyn.jpg",
+    "order": "1"    
+  },
+    {
+    "name": "777",
+    "developer": "TGG Interactive",
+    "link": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/game.html?game=TGG_777",
+    "description": "Get the lucky 7s, win the gold. In this remake of the slot game classic, experience the fusion of vintage symbols in a series of feature games and multipliers.",
+    "img": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/images/777.jpg",
+    "order": "2"
+  }
+  ,
+    {
+    "name": "Fruity Bites",
+    "developer": "TGG Interactive",
+    "link": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/game.html?game=TGG_FRUITY_BITES",
+    "description": "Every spin is a sweetie juicy Fruity Bite! Find the favors you like in this kingdom of fruits and have a big bite in the feature fruity free spins!",
+    "img": "http://igaming-presentation.s3-website-ap-southeast-1.amazonaws.com/images/fruit.jpg",
+    "order": "3"
+  }
+  ]
+}
